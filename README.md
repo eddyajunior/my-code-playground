@@ -8,5 +8,6 @@ Repositório para estudo, testes e aplicação de novas tecnologias
 # Últimos exemplos
 
 * Design Patterns
-- [x] Abstarct Factory
+- [x] Builder
+- [x] Abstract Factory
 - [x] Factory Method
