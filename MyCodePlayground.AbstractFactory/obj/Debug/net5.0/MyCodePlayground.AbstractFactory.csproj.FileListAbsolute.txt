@@ -1,0 +1,16 @@
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\bin\Debug\net5.0\MyCodePlayground.AbstractFactory.exe
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\bin\Debug\net5.0\MyCodePlayground.AbstractFactory.deps.json
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\bin\Debug\net5.0\MyCodePlayground.AbstractFactory.runtimeconfig.json
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\bin\Debug\net5.0\MyCodePlayground.AbstractFactory.runtimeconfig.dev.json
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\bin\Debug\net5.0\MyCodePlayground.AbstractFactory.dll
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\bin\Debug\net5.0\ref\MyCodePlayground.AbstractFactory.dll
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\bin\Debug\net5.0\MyCodePlayground.AbstractFactory.pdb
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\MyCodePlayground.AbstractFactory.csproj.AssemblyReference.cache
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\MyCodePlayground.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\MyCodePlayground.AbstractFactory.AssemblyInfoInputs.cache
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\MyCodePlayground.AbstractFactory.AssemblyInfo.cs
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\MyCodePlayground.AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\MyCodePlayground.AbstractFactory.dll
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\ref\MyCodePlayground.AbstractFactory.dll
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\MyCodePlayground.AbstractFactory.pdb
+D:\Repos-Study\my-code-playground\MyCodePlayground.AbstractFactory\obj\Debug\net5.0\MyCodePlayground.AbstractFactory.genruntimeconfig.cache

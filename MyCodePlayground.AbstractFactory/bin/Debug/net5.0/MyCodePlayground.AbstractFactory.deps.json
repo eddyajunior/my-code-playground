@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyCodePlayground.AbstractFactory/1.0.0": {
+        "runtime": {
+          "MyCodePlayground.AbstractFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyCodePlayground.AbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
