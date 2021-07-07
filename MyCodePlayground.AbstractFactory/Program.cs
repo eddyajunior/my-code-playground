@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MyCodePlayground.AbstractFactory
+﻿namespace MyCodePlayground.AbstractFactory
 {
     class Program
     {

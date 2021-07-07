@@ -1,0 +1,16 @@
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\bin\Debug\net5.0\MyCodePlayground.Builder.exe
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\bin\Debug\net5.0\MyCodePlayground.Builder.deps.json
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\bin\Debug\net5.0\MyCodePlayground.Builder.runtimeconfig.json
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\bin\Debug\net5.0\MyCodePlayground.Builder.runtimeconfig.dev.json
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\bin\Debug\net5.0\MyCodePlayground.Builder.dll
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\bin\Debug\net5.0\ref\MyCodePlayground.Builder.dll
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\bin\Debug\net5.0\MyCodePlayground.Builder.pdb
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\MyCodePlayground.Builder.csproj.AssemblyReference.cache
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\MyCodePlayground.Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\MyCodePlayground.Builder.AssemblyInfoInputs.cache
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\MyCodePlayground.Builder.AssemblyInfo.cs
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\MyCodePlayground.Builder.csproj.CoreCompileInputs.cache
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\MyCodePlayground.Builder.dll
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\ref\MyCodePlayground.Builder.dll
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\MyCodePlayground.Builder.pdb
+D:\Repos-Study\my-code-playground\MyCodePlayground.Builder\obj\Debug\net5.0\MyCodePlayground.Builder.genruntimeconfig.cache

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MyCodePlayground.AbstractFactory
+﻿namespace MyCodePlayground.AbstractFactory
 {
     public class ConcreteFactory2 : IAbstractFactory
     {
